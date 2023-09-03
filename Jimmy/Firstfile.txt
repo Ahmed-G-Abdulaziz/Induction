@@ -10,14 +10,8 @@ Induction session copied twice
 
 
 hello everyone
-this modification is done on the new_feature branch
 
+Test Belal
 
-
-
-
-
-Karim was here
-Test Ziad
-
-nvnvnvmhh
+ABCD12354 Attar
+Ali test_merged2
